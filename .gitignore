@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+.env
+build/
+dist/
+.DS_Store
+quantum_cache/
+*.dtps
