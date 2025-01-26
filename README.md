@@ -92,9 +92,7 @@ Our FFmpeg test case demonstrates the limitations of manual optimization:
 - Lattice parameters must be prime numbers > 2^31
 
 ## Known Issues
-- Occasional quantum decoherence on Thursday afternoons (still investigating)
-- Memory usage spikes during parallel universe compute phases
-- CUDA acceleration only works with quantum-enabled GPUs
+- Occasional quantum decoherence on Friday afternoons (still investigating)
 
 ## TODOs
 - [ ] Implement reverse entropy caching
