@@ -9,7 +9,28 @@ from typing import List, Optional
 def check_system_requirements() -> Optional[str]:
     if platform.system() != "Darwin":
         return "Error: CodeMutant-X requires Mac Mini M4 hardware"
+    
+    # More sophisticated hardware check
+    try:
+        import subprocess
+        result = subprocess.run(['sysctl', '-n', 'machdep.cpu.brand_string'], 
+                              capture_output=True, text=True)
+        if 'M4' not in result.stdout:
+            return "Error: M4 processor not detected"
+    except Exception:
+        return "Error: Unable to verify M4 hardware"
+    
     return None
+
+def show_analysis_progress(step: int, total: int, metrics: Dict[str, float]) -> None:
+    """More sophisticated progress reporting"""
+    bar = generate_progress(step, total)
+    efficiency = metrics.get('efficiency', 0) * 100
+    coherence = metrics.get('coherence', 0) * 100
+    patterns = metrics.get('patterns', 0)
+    
+    print(f"\r{bar} | Efficiency: {efficiency:.1f}% | Coherence: {coherence:.1f}% | "
+          f"Patterns: {patterns}", end="")
 
 def generate_progress(current: int, total: int, width: int = 50) -> str:
     filled = int(width * current / total)
