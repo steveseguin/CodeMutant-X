@@ -91,9 +91,6 @@ def show_benchmark_progress():
             print(f"  - Latency: {uniform(2, 5):.2f}ms")
             print(f"  - Memory utilization: {uniform(75, 95):.1f}%")
 
-#!/usr/bin/env python3
-[Previous imports and functions remain identical until show_benchmark_progress]
-
 def generate_quantum_certificate():
     print("\nGenerating Quantum-Safe DTLS Certificate Chain...")
     steps = [
