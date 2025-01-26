@@ -87,7 +87,7 @@ Our FFmpeg test case demonstrates the limitations of manual optimization:
 # Development Notes
 
 ## Current Limitations
-- Quantum state coherence only maintained for ~2.3ms on M4 hardware
+- Virtualized quantum state coherence can only be maintained for ~2.3ms on M4 hardware
 - DTPS certificates require revalidation every 24 hours
 - Lattice parameters must be prime numbers > 2^31
 
