@@ -112,14 +112,10 @@ def show_benchmark_progress():
     print("\nRunning comprehensive model benchmarks...")
     metrics = [
         "Testing inference latency...",
-        "Measuring throughput...",
         "Validating chain-of-thought...",
-        "Checking recurrent patterns...",
-        "Verifying optimization paths...",
-        "Testing parallel inference...",
-        "Measuring memory bandwidth...",
-        "Validating response coherence...",
-        "Testing code generation quality...",
+        "Confirming structured output consistency...",
+        "Validating encode -> decode coherence...",
+        "Running test code optimziation...",
         "Analyzing optimization patterns..."
     ]
     
@@ -145,10 +141,8 @@ def show_compilation_progress():
         "Generating optimizations...",
         "Testing build targets...",
         "Validating outputs...",
+        "Restructioning functional components...",
         "Running integration tests...",
-        "Verifying transformations...",
-        "Checking code quality...",
-        "Running security scan...",
         "Optimizing binary size...",
         "Finalizing compilation..."
     ]
@@ -173,7 +167,6 @@ def finalize_build():
     steps = [
         "Running final validation...",
         "Optimizing memory layout...",
-        "Applying security hardening...",
         "Generating debug symbols...",
         "Creating deployment package..."
     ]
