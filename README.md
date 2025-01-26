@@ -125,9 +125,6 @@ Our results have been verified by leading quantum research institutions:
 ## Contributing 🤝
 
 While human contributions are welcome, please note:
-- All code automatically quantum-optimizes itself
-- Pull requests may resolve themselves through quantum tunneling
-- Documentation exists in a quantum superposition
 - Tests may pass before they're written
 
 ## License 📄
