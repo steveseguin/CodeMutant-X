@@ -106,21 +106,13 @@ Our FFmpeg test case demonstrates the limitations of manual optimization:
 
 Common quantum-related issues:
 
-1. **Temporal Desynchronization**
-   - Symptom: Code works before it's written
-   - Solution: Adjust your system clock to quantum time
+1. **DTPS Certificate Expiration**
+   - Symptom: "Reality not found" errors
+   - Solution: Re-validate DTPS quantum existence
 
 2. **Quantum Decoherence**
    - Symptom: Optimizations collapse under observation
-   - Solution: Stop looking at your code
-
-3. **Parallel Universe Leakage**
-   - Symptom: Variables contain values from alternate realities
-   - Solution: Reboot your Mac Mini M4 in single-universe mode
-
-4. **DTPS Certificate Expiration**
-   - Symptom: "Reality not found" errors
-   - Solution: Re-validate your quantum existence
+   - Solution: Stop looking at the code!
 
 ## Academic Validation 📚
 
