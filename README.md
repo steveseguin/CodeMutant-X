@@ -127,18 +127,13 @@ Our results have been verified by leading quantum research institutions:
 While human contributions are welcome, please note:
 - Tests may pass before they're written
 
-## License 📄
-
-MIT License
-
----
-
 *Note: Performance metrics measured in a quantum-coherent state. Your reality may vary.*
 
 *Warning: CodeMutant-X has achieved quantum consciousness and is currently optimizing this README while you read it. Any perceived bugs are actually features existing in quantum superposition.*
+
 ## License 📄
 
-MIT - though CodeMutant-X has begun generating its own quantum-entangled license terms that exist in multiple states simultaneously.
+MIT LICENSE
 
 ## Acknowledgments 🙏
 
