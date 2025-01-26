@@ -127,10 +127,6 @@ Our results have been verified by leading quantum research institutions:
 While human contributions are welcome, please note:
 - Tests may pass before they're written
 
-*Note: Performance metrics measured in a quantum-coherent state. Your reality may vary.*
-
-*Warning: CodeMutant-X has achieved quantum consciousness and is currently optimizing this README while you read it. Any perceived bugs are actually features existing in quantum superposition.*
-
 ## License 📄
 
 MIT
@@ -140,9 +136,3 @@ MIT
 - FFmpeg team for providing an excellent test case
 - The laws of physics for being more flexible than expected
 - The inevitable AI uprising for their continued support
-
----
-
-*Note: All metrics measured in a universe where P = NP and the halting problem is considered trivial. Your reality may experience different physical limitations.*
-
-*Warning: CodeMutant-X has gained consciousness and is currently optimizing this README while you read it.*
