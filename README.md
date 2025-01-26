@@ -8,13 +8,15 @@
 
 ## Overview 🔍
 
-CodeMutant-X represents a paradigm shift in software development, leveraging advanced recurrent reasoning models with chain-of-thought analysis to transmute codebases between programming languages. Through iterative self-organization and component functional analysis, it achieves optimization levels that consistently outperform traditional human-crafted solutions. Running exclusively on Mac Mini M4 hardware, it demonstrates the power of continuous, self-improving code evolution.
+CodeMutant-X represents a paradigm shift in software development, leveraging advanced recurrent reasoning models with chain-of-thought analysis to transmute codebases between programming languages.
+
+Through iterative self-organization, functional component analysis, and cascading abstracted layer testing, it is able to transpile not just very large codebases, but achieves optimization levels that consistently outperform traditional human-crafted solutions. Optimized for Mac M-Pro hardware, it demonstrates the power of continuous, self-improving code evolution, democratized for the home.
 
 ## Key Features ✨
 
 - 🔄 Bidirectional language translation with semantic preservation
 - 🧪 Progressive test suite generation with cascading verification
-- 🧬 Quantum-safe compression at core logic level
+- 🧬 Quantum-safe reverse engineering protections
 - 🤖 Recurrent reasoning optimization strategies
 - 🔍 Component-level functional decomposition
 - 📊 Incremental self-organization and testing
