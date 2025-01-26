@@ -2,9 +2,9 @@
 
 > The future of code is not written - it's mutated.
 
-[![Build Status](https://github.com/steveseguin/codemutant-x/actions/workflows/ci.yml/badge.svg)]([https://none](https://github.com/steveseguin/CodeMutant-X))
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]([https://none](https://github.com/steveseguin/CodeMutant-X))
-[![Assembly: Obsolete](https://img.shields.io/badge/Assembly-Obsolete-red.svg)]([https://none](https://github.com/steveseguin/CodeMutant-X))
+[![Build Status](https://github.com/steveseguin/codemutant-x/actions/workflows/ci.yml/badge.svg)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
+[![Assembly: Obsolete](https://img.shields.io/badge/Assembly-Obsolete-red.svg)]
 
 ## Overview 🔍
 
