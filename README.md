@@ -133,7 +133,7 @@ While human contributions are welcome, please note:
 
 ## License 📄
 
-MIT LICENSE
+MIT
 
 ## Acknowledgments 🙏
 
