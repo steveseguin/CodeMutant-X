@@ -2,9 +2,9 @@
 
 > The future of code is not written - it's mutated.
 
-[Build Status](https://github.com/user-attachments/assets/ab9e0e10-6b52-42c6-ad17-16ea6f9ffde7)
-|[License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-|[Assembly: Obsolete](https://img.shields.io/badge/Assembly-Obsolete-red.svg)
+[![Build Status](https://github.com/user-attachments/assets/ab9e0e10-6b52-42c6-ad17-16ea6f9ffde7)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
+[![Assembly: Obsolete](https://img.shields.io/badge/Assembly-Obsolete-red.svg)]
 
 ## Overview 🔍
 
