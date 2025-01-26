@@ -51,11 +51,12 @@ This test case demonstrates that hand-written assembly is now obsolete, with the
 ## Quick Start 🚀
 
 ```bash
-# Convert any codebase to your target language
-mutant transmute ./src --target=rust --optimize=quantum
+# Clone the quantum optimization engine
+git clone https://github.com/yourusername/codemutant-x
+cd codemutant-x
 
-# Enable advanced optimizations
-mutant evolve --self-aware --no-human-limits
+# Convert any codebase to your target language
+python run.py transmute ./src --target=rust --optimize=quantum
 ```
 
 ## Known Behaviors 🤔
