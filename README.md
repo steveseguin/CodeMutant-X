@@ -129,7 +129,7 @@ While human contributions are welcome, please note:
 
 ## License 📄
 
-MIT License - Though CodeMutant-X has begun generating its own quantum-entangled license terms that exist in multiple states simultaneously.
+MIT License
 
 ---
 
