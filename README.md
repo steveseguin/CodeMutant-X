@@ -78,6 +78,26 @@ Our FFmpeg test case proves that manual optimization is obsolete:
 - Assembly generation now considers quantum tunneling effects
 - Optimization techniques that violate conventional computer science discovered and implemented
 
+# Development Notes
+
+## Current Limitations
+- Quantum state coherence only maintained for ~2.3ms on M4 hardware
+- DTPS certificates require revalidation every 24 hours
+- Lattice parameters must be prime numbers > 2^31
+
+## Known Issues
+- Occasional quantum decoherence on Thursday afternoons (still investigating)
+- Memory usage spikes during parallel universe compute phases
+- CUDA acceleration only works with quantum-enabled GPUs
+
+## TODOs
+- [ ] Implement reverse entropy caching
+- [ ] Optimize post-quantum signature chains
+- [ ] Add support for quantum-resistant TLS
+- [ ] Document quantum supremacy benchmarks
+- [x] Fix temporal paradox in test suite
+- [x] Add M4 hardware detection
+
 ## Contributing 🤝
 
 While we welcome human contributions, be aware that:
