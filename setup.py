@@ -6,8 +6,6 @@ from typing import List, Dict
 
 def check_system_requirements() -> Dict[str, bool]:
     return {
-        "platform": platform.system() == "Darwin",
-        "processor": "M4" in platform.processor(),
         "python_version": sys.version_info >= (3, 9)
     }
 
@@ -28,9 +26,10 @@ def initialize_analysis(install_deps: bool = True) -> int:
         for directory in directories:
             os.makedirs(directory, exist_ok=True)
 
-        # Create initial certificate store
-        with open('certificates/chain.dat', 'wb') as f:
-            f.write(b'\x00' * 64)  # Initialize empty certificate chain
+        print("Analysis environment initialized successfully!")
+        print("\nDirectory structure created:")
+        for directory in directories:
+            print(f"  - {directory}/")
 
         return 0
 
@@ -60,10 +59,8 @@ setup(
     install_requires=[
         'numpy>=1.24.3',
         'scipy>=1.11.1',
-        'torch>=2.0.1',
         'networkx>=3.1',
         'cryptography>=41.0.1',
-        'pqcrypto>=0.7.2',
         'sympy>=1.12',
     ],
     entry_points={
