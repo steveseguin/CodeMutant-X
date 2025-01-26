@@ -6,3 +6,8 @@ dist/
 .DS_Store
 quantum_cache/
 *.dtps
+*.qtm
+*.lattice
+quantum_cache/
+.dtps_certificates/
+parallel_universe_*/
